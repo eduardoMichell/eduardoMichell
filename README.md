@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2 align="center"><samp> Hi there :wave: Welcome to my Github! </samp></h3>
 
-<!--
-**eduardoMichell/eduardoMichell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center"><samp> :computer: I'm currently in my third year in college of Computer Science </samp><br>
+<samp> :construction_worker: I'm a Web Development intern </samp></h3>
+ 
 
-Here are some ideas to get you started:
+<img alt="SP-XD's github stats" width="50%" src="https://github-readme-stats1-eduardomichell.vercel.app/api?username=eduardoMichell&count_private=true&hide=prs,stars&theme=nord&show_icons=true" href="https://github.com/anuraghazra/github-readme-stats#github-stats-card"/>ㅤㅤㅤㅤㅤㅤㅤ<img alt="Top Langs" width="38.1%"  src="https://github-readme-stats1-eduardomichell.vercel.app/api/top-langs/?username=eduardoMichell&layout=compact&theme=nord&langs_count=4" href="https://github.com/anuraghazra/github-readme-stats#github-stats-card"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<br><br><br> 
+
+<p align="center">
+<a href="https://www.linkedin.com/in/eduardo-michel-939b32175/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a><a href="https://www.instagram.com/eduardo.michel9/">
+<img src="https://img.shields.io/badge/instagram-purple?style=flat&logo=instagram&labelColor=purple">
+</a>
+</p>
+
