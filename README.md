@@ -1,6 +1,6 @@
 <h2 align="center"><samp> Hi there :wave: Welcome to my Github! </samp></h3>
 
-<h4 align="center"><samp> :computer: I'm currently in my third year in college of Computer Science </samp><br>
+<h4 align="center"><samp> :computer: I'm currently in my four year in college of Computer Science </samp><br>
 <samp> :construction_worker: I'm a Full Stack Developer </samp></h3>
  
 
