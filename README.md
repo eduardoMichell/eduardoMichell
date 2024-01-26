@@ -1,11 +1,12 @@
 <h2 align="center"><samp> Hi there :wave: Welcome to my Github! </samp></h3>
 
-<h4 align="center"><samp> :computer: I'm currently in my fourth year in college of Computer Science </samp><br>
-<samp> :construction_worker: I'm a Full Stack Developer </samp></h3>
+<h4 align="center"><samp> :computer: I'm currently in my last year of Computer Science college </samp><br>
+<samp> :construction_worker: I'm a Mid Full Stack Developer </samp><br>
+<samp> :rocket: Currently, my focus is on blockchain and generative artificial intelligence </samp>
+</h3>
+
  
-
-
-<br><br><br> 
+<br> 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/eduardo-michel-939b32175/">
